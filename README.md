@@ -9,3 +9,5 @@ Simple Weather Forecast App:
 
 Build requirements: Xcode 7.3.1/iOS 9.3/Swift 2.2.1
 
+Please use iPhone 6 / iPhone 6s Device or Simulator for the best results.
+
