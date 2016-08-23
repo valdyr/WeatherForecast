@@ -1,6 +1,7 @@
 # WeatherForecast
 
 Simple Weather Forecast App:
+
 1. Displays 5 day weather forecast for London, UK
 2. Data is taken from http://openweathermap.org/forecast5
 3. Uses Storyboards to speed up development
